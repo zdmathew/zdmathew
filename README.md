@@ -1,4 +1,4 @@
-# Hi, I'm Zachary Mathew 👋
+# Hi, I'm Zachary Mathew
 
 **Senior Cloud & Infrastructure Engineer** based in Dallas-Fort Worth, TX
 
